@@ -19,3 +19,4 @@ while tries > 0:
         tries = tries -1
         print ("You have " + str(tries) + " tries left") 
 
+# Comments are fun
